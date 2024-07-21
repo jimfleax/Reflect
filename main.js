@@ -776,4 +776,4 @@ msg = function (content) {
 
     }, 3000)
     delete d101;
-}
+};
