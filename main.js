@@ -43,10 +43,6 @@ var sync = {
 /*
 *   Check for bugs, and transform the code to OOP.
 *   Improve mobile compatibility.
-*   Create a words count feature in addReflections
-*   doc can be accessed by disabling password protection, prompt enterPass onclick passwordAdd btn.
-*   Add a collections featurn to store docs in groups.
-*   Create an icon to indicate it is locked.
 */
 
 var auth = {
